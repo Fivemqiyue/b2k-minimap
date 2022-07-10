@@ -1,2 +1,3 @@
- b2k-minimap
-移除小地图上的 HP/ARMOUR + 移除红色标线
+# b2k-minimap
+移除左下角小地图原版的血量以及护甲功能！
+![P F1BK1U{$H 9J@OE4WL@A](https://user-images.githubusercontent.com/86194394/178126542-5721d4fa-877f-4fce-972e-80a364fecd72.png)
